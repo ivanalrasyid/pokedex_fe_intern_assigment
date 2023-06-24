@@ -15,7 +15,7 @@ The Pokedex app is built using the following technologies and libraries:
 
 The Pokedex app provides the following features:
 
-- View a list of Pokemon with their names and images.
+- View a list of Pokemon with  information about the selected pokemon: image, pokemon name, type, weight, height, abilities, moves, and stats
 - Search for a specific Pokemon by name.
 - View detailed information about a selected Pokemon, including its abilities and types.
 - Add favorite Pokemon to a favorites list.
