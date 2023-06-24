@@ -33,4 +33,10 @@ To run the Pokedex app locally, follow these steps:
 
 ## API Usage
 
-The Pokedex app uses the PokeAPI (https://pokeapi.co/) to fetch data about Pokemon. It makes API requests to retrieve information such as Pokemon details, abilities, and types. The Axios library is used for making these API calls.
+The Pokedex app uses the PokeAPI (https://pokeapi.co/) to fetch data about Pokemon. It makes API requests to retrieve information such as Pokemon details, abilities, and types.
+
+
+
+
+https://github.com/ivanalrasyid/pokedex_fe_intern_assigment/assets/83364050/82232c3d-6cf7-4a0f-ace8-410412402740
+
